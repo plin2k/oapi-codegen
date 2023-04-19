@@ -1,4 +1,4 @@
-module github.com/deepmap/oapi-codegen
+module github.com/plin2k/oapi-codegen
 
 require (
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0

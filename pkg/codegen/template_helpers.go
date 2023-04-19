@@ -20,8 +20,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/deepmap/oapi-codegen/pkg/util"
 	"github.com/labstack/echo/v4"
+	"github.com/plin2k/oapi-codegen/pkg/util"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )
